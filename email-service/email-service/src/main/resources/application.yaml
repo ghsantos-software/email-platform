@@ -1,0 +1,6 @@
+server:
+  port: 8090
+aws:
+  region: ${aws.region}
+  access-key: ${aws.accessKeyId}
+  secret-key: ${aws.secretKey}
